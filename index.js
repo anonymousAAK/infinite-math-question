@@ -1,5 +1,5 @@
 const num1 = Math.ceil(100* Math.random()); //Random number between 1 & 100
-const num2 = Math.ceil(100* Math.random());
+const num2 = Math.ceil(10* Math.random());
 const operation = Math.ceil(3*Math.random());
 
 const questionEl = document.getElementById("question");
